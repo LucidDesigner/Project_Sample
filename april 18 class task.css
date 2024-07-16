@@ -1,0 +1,145 @@
+.parentDiv{
+    
+    height: 100vh;
+    display: flex;
+    margin: 80px 20px 140px 20px;
+    
+    /* box-shadow: 0px 20px 140px 0px; */
+
+}
+
+.c1{
+    flex: 1.5;
+    background-color: rgb(136, 41, 238);
+    background-image: url(leaves.jpg);
+    background-size: cover;
+    /* border: 1px solid black;
+    border-radius: 20px; */
+    
+}
+
+.c2{
+    flex: 1;
+    background-color: white;
+    /* border: 1px solid black;
+    border-radius: 20px; */
+}
+.heading{
+    font-size: 80px;
+    color: aliceblue;
+    /* background-color: blue; */
+    margin: 60px 0px 0px 20px;
+}
+.para1{
+    margin: 20px 0px 0px 20px;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.para2{
+    margin: 20px 0px 0px 20px;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.icon{
+    padding: 10px;
+    /* background-color: chartreuse; */
+    display: flex;
+    margin: 20px 0px 0px 0px;
+}
+.fa-facebook{
+    
+    color: aliceblue;
+    background-color: blue;
+    padding: 8px 40px 8px 40px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    margin-left: 10px;
+    
+}
+.fa-twitter{
+    color: aliceblue;
+    background-color: rgb(48, 219, 241);
+    padding: 8px 60px 8px 60px;
+    border-radius: 20px;
+    margin: 0px 0px 0px 30px;
+}
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(155, 79, 227);
+}
+
+.c2h1{
+    margin: 140px 0px 0px 20px;
+    font-size: 60px;
+    
+}
+
+.create{
+    color: rgb(197, 195, 195);
+    font-size: 22px;
+    margin: 90px 0px 0px 20px;
+}
+
+.user{
+    margin: 60px 0px 0px 20px;
+}
+
+.password{
+    margin: 20px 0px 0px 20px;
+}
+
+.tick{
+    display: flex;
+    margin: 60px 0px 0px 20px;
+    justify-content: space-around;
+}
+
+
+
+.Remember{
+    margin-left: 10px;
+
+}
+
+.button{
+
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 0px 0px 0px;
+
+
+
+}
+.sign{
+    background-color: chartreuse;
+    display: flex;
+    
+    padding: 3px 8px 3px 8px;
+    border: 1px solid greenyellow;
+        border-radius: 5px;
+}
+
+.white{
+    background-color: white;
+    display: flex;
+    
+    padding: 3px 8px 3px 8px;
+    border: 1px solid white;
+        border-radius: 5px;
+    color: white;
+}
+
+.white1{
+    background-color: white;
+    display: flex;
+    
+    padding: 3px 8px 3px 8px;
+    border: 1px solid white;
+        border-radius: 5px;
+    color: white;
+}
